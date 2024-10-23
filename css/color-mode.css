@@ -83,7 +83,7 @@ body:after {
     --br-4: url(../assets/face-animation-light/br-4.png);
     --br-5: url(../assets/face-animation-light/br-5.png);
   
-    --sun: url(../assets/icons/sun.png);
+    --sun: url(./assets/icons/sun.png);
   }
   
   /* DARK MODE */
@@ -120,7 +120,7 @@ body:after {
     --br-4: url(../assets/face-animation-dark/brw-4.png);
     --br-5: url(../assets/face-animation-dark/brw-5.png);
   
-    --moon: url(../assets/icons/moon.png);
+    --moon: url(./assets/icons/moon.png);
   }
   
   /* COLOR MODE TOGGLE BUTTON */
